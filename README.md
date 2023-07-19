@@ -1,4 +1,4 @@
-# Para verificar o resultado do curso clique aqui:
+# Para verificar o resultado da aula clique aqui:
 
 https://organo-alura-chi.vercel.app/
 
